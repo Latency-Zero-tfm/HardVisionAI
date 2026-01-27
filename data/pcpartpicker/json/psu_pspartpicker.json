@@ -1,0 +1,1002 @@
+[
+    {
+        "Name":"MSI MAG A750GL PCIE5 (98)",
+        "Type":"TypeATX",
+        "Efficiency Rating":"Efficiency Rating80+ Gold",
+        "Wattage":"Wattage750 W",
+        "Modular":"ModularFull",
+        "Color":"ColorBlack",
+        "Rating":"(98)",
+        "Price":"€119.48Add"
+    },
+    {
+        "Name":"MSI MAG A850GL PCIE5 (82)",
+        "Type":"TypeATX",
+        "Efficiency Rating":"Efficiency Rating80+ Gold",
+        "Wattage":"Wattage850 W",
+        "Modular":"ModularFull",
+        "Color":"ColorBlack",
+        "Rating":"(82)",
+        "Price":"€127.70Add"
+    },
+    {
+        "Name":"MSI MAG A650BN (51)",
+        "Type":"TypeATX",
+        "Efficiency Rating":"Efficiency Rating80+ Bronze",
+        "Wattage":"Wattage650 W",
+        "Modular":"ModularNo",
+        "Color":"ColorBlack",
+        "Rating":"(51)",
+        "Price":"€53.69Add"
+    },
+    {
+        "Name":"Corsair RM850e (2025) (29)",
+        "Type":"TypeATX",
+        "Efficiency Rating":"Efficiency Rating",
+        "Wattage":"Wattage850 W",
+        "Modular":"ModularFull",
+        "Color":"ColorBlack",
+        "Rating":"(29)",
+        "Price":"€134.94Add"
+    },
+    {
+        "Name":"Corsair SF1000 (2024) (39)",
+        "Type":"TypeSFX",
+        "Efficiency Rating":"Efficiency Rating80+ Platinum",
+        "Wattage":"Wattage1000 W",
+        "Modular":"ModularFull",
+        "Color":"ColorBlack",
+        "Rating":"(39)",
+        "Price":"€214.90Add"
+    },
+    {
+        "Name":"Corsair RM1000x (2024) (40)",
+        "Type":"TypeATX",
+        "Efficiency Rating":"Efficiency Rating",
+        "Wattage":"Wattage1000 W",
+        "Modular":"ModularFull",
+        "Color":"ColorBlack",
+        "Rating":"(40)",
+        "Price":"€188.90Add"
+    },
+    {
+        "Name":"Montech CENTURY II (25)",
+        "Type":"TypeATX",
+        "Efficiency Rating":"Efficiency Rating80+ Gold",
+        "Wattage":"Wattage850 W",
+        "Modular":"ModularFull",
+        "Color":"ColorBlack",
+        "Rating":"(25)",
+        "Price":"€103.40Add"
+    },
+    {
+        "Name":"MSI MAG A550BN (41)",
+        "Type":"TypeATX",
+        "Efficiency Rating":"Efficiency Rating80+ Bronze",
+        "Wattage":"Wattage550 W",
+        "Modular":"ModularNo",
+        "Color":"ColorBlack",
+        "Rating":"(41)",
+        "Price":"€51.90Add"
+    },
+    {
+        "Name":"Corsair RM850x (2024) (46)",
+        "Type":"TypeATX",
+        "Efficiency Rating":"Efficiency Rating",
+        "Wattage":"Wattage850 W",
+        "Modular":"ModularFull",
+        "Color":"ColorBlack",
+        "Rating":"(46)",
+        "Price":"€150.90Add"
+    },
+    {
+        "Name":"Corsair RM750e (2025) (16)",
+        "Type":"TypeATX",
+        "Efficiency Rating":"Efficiency Rating",
+        "Wattage":"Wattage750 W",
+        "Modular":"ModularFull",
+        "Color":"ColorBlack",
+        "Rating":"(16)",
+        "Price":"€109.95Add"
+    },
+    {
+        "Name":"Thermaltake Smart (84)",
+        "Type":"TypeATX",
+        "Efficiency Rating":"Efficiency Rating80+",
+        "Wattage":"Wattage500 W",
+        "Modular":"ModularNo",
+        "Color":"Color",
+        "Rating":"(84)",
+        "Price":"Add"
+    },
+    {
+        "Name":"MSI MAG A850GL PCIE5 (25)",
+        "Type":"TypeATX",
+        "Efficiency Rating":"Efficiency Rating80+ Gold",
+        "Wattage":"Wattage850 W",
+        "Modular":"ModularFull",
+        "Color":"ColorWhite",
+        "Rating":"(25)",
+        "Price":"€117.36Add"
+    },
+    {
+        "Name":"Corsair SF750 (2024) (38)",
+        "Type":"TypeSFX",
+        "Efficiency Rating":"Efficiency Rating80+ Platinum",
+        "Wattage":"Wattage750 W",
+        "Modular":"ModularFull",
+        "Color":"ColorBlack",
+        "Rating":"(38)",
+        "Price":"€164.90Add"
+    },
+    {
+        "Name":"Asus ROG THOR 1600T Gaming (1)",
+        "Type":"TypeATX",
+        "Efficiency Rating":"Efficiency Rating80+ Titanium",
+        "Wattage":"Wattage1600 W",
+        "Modular":"ModularFull",
+        "Color":"ColorSilver \/ Black",
+        "Rating":"(1)",
+        "Price":"€640.50Add"
+    },
+    {
+        "Name":"MSI MPG A1000GS PCIE5 (6)",
+        "Type":"TypeATX",
+        "Efficiency Rating":"Efficiency Rating80+ Gold",
+        "Wattage":"Wattage1000 W",
+        "Modular":"ModularFull",
+        "Color":"ColorBlack",
+        "Rating":"(6)",
+        "Price":"€155.69Add"
+    },
+    {
+        "Name":"Corsair CX750M (2021) (29)",
+        "Type":"TypeATX",
+        "Efficiency Rating":"Efficiency Rating80+ Bronze",
+        "Wattage":"Wattage750 W",
+        "Modular":"ModularSemi",
+        "Color":"ColorBlack",
+        "Rating":"(29)",
+        "Price":"Add"
+    },
+    {
+        "Name":"Corsair RM1000e (2025) (9)",
+        "Type":"TypeATX",
+        "Efficiency Rating":"Efficiency Rating",
+        "Wattage":"Wattage1000 W",
+        "Modular":"ModularFull",
+        "Color":"ColorBlack",
+        "Rating":"(9)",
+        "Price":"€154.94Add"
+    },
+    {
+        "Name":"Corsair RM650e (2025) (11)",
+        "Type":"TypeATX",
+        "Efficiency Rating":"Efficiency Rating",
+        "Wattage":"Wattage650 W",
+        "Modular":"ModularFull",
+        "Color":"ColorBlack",
+        "Rating":"(11)",
+        "Price":"€84.90Add"
+    },
+    {
+        "Name":"Asus ROG STRIX 1200P Gaming (1)",
+        "Type":"TypeATX",
+        "Efficiency Rating":"Efficiency Rating80+ Platinum",
+        "Wattage":"Wattage1200 W",
+        "Modular":"ModularFull",
+        "Color":"ColorBlack \/ Silver",
+        "Rating":"(1)",
+        "Price":"€246.95Add"
+    },
+    {
+        "Name":"Corsair SF850 (2024) (31)",
+        "Type":"TypeSFX",
+        "Efficiency Rating":"Efficiency Rating80+ Platinum",
+        "Wattage":"Wattage850 W",
+        "Modular":"ModularFull",
+        "Color":"ColorBlack",
+        "Rating":"(31)",
+        "Price":"€170.06Add"
+    },
+    {
+        "Name":"Cooler Master MWE GOLD 750 V2 FULL MODULAR (22)",
+        "Type":"TypeATX",
+        "Efficiency Rating":"Efficiency Rating80+ Gold",
+        "Wattage":"Wattage750 W",
+        "Modular":"ModularFull",
+        "Color":"ColorBlack",
+        "Rating":"(22)",
+        "Price":"€107.74Add"
+    },
+    {
+        "Name":"SeaSonic PRIME PX-2200 ATX 3 (2024) (0)",
+        "Type":"TypeATX",
+        "Efficiency Rating":"Efficiency Rating80+ Platinum",
+        "Wattage":"Wattage2200 W",
+        "Modular":"ModularFull",
+        "Color":"ColorBlack",
+        "Rating":"(0)",
+        "Price":"€575.60Add"
+    },
+    {
+        "Name":"be quiet! Pure Power 13 M (12)",
+        "Type":"TypeATX",
+        "Efficiency Rating":"Efficiency Rating80+ Gold",
+        "Wattage":"Wattage1000 W",
+        "Modular":"ModularFull",
+        "Color":"ColorBlack",
+        "Rating":"(12)",
+        "Price":"€166.49Add"
+    },
+    {
+        "Name":"Corsair RM1000e (2025) (6)",
+        "Type":"TypeATX",
+        "Efficiency Rating":"Efficiency Rating",
+        "Wattage":"Wattage1000 W",
+        "Modular":"ModularFull",
+        "Color":"ColorWhite",
+        "Rating":"(6)",
+        "Price":"€162.90Add"
+    },
+    {
+        "Name":"be quiet! Pure Power 13 M (5)",
+        "Type":"TypeATX",
+        "Efficiency Rating":"Efficiency Rating80+ Gold",
+        "Wattage":"Wattage750 W",
+        "Modular":"ModularFull",
+        "Color":"ColorBlack",
+        "Rating":"(5)",
+        "Price":"€123.78Add"
+    },
+    {
+        "Name":"Super Flower Leadex Titanium (0)",
+        "Type":"TypeATX",
+        "Efficiency Rating":"Efficiency Rating80+ Titanium",
+        "Wattage":"Wattage2800 W",
+        "Modular":"ModularFull",
+        "Color":"ColorBlack",
+        "Rating":"(0)",
+        "Price":"Add"
+    },
+    {
+        "Name":"Corsair CX650M (2021) (34)",
+        "Type":"TypeATX",
+        "Efficiency Rating":"Efficiency Rating80+ Bronze",
+        "Wattage":"Wattage650 W",
+        "Modular":"ModularSemi",
+        "Color":"ColorBlack",
+        "Rating":"(34)",
+        "Price":"Add"
+    },
+    {
+        "Name":"Thermaltake Toughpower GX2 (29)",
+        "Type":"TypeATX",
+        "Efficiency Rating":"Efficiency Rating80+ Gold",
+        "Wattage":"Wattage600 W",
+        "Modular":"ModularNo",
+        "Color":"ColorBlack",
+        "Rating":"(29)",
+        "Price":"Add"
+    },
+    {
+        "Name":"Corsair RM850x (2021) (221)",
+        "Type":"TypeATX",
+        "Efficiency Rating":"Efficiency Rating80+ Gold",
+        "Wattage":"Wattage850 W",
+        "Modular":"ModularFull",
+        "Color":"ColorBlack",
+        "Rating":"(221)",
+        "Price":"€184.90Add"
+    },
+    {
+        "Name":"MSI MAG A650GLS PCIE5 (2)",
+        "Type":"TypeATX",
+        "Efficiency Rating":"Efficiency Rating80+ Gold",
+        "Wattage":"Wattage650 W",
+        "Modular":"ModularFull",
+        "Color":"ColorBlack",
+        "Rating":"(2)",
+        "Price":"Add"
+    },
+    {
+        "Name":"be quiet! Pure Power 13 M (7)",
+        "Type":"TypeATX",
+        "Efficiency Rating":"Efficiency Rating80+ Gold",
+        "Wattage":"Wattage850 W",
+        "Modular":"ModularFull",
+        "Color":"ColorBlack",
+        "Rating":"(7)",
+        "Price":"€137.96Add"
+    },
+    {
+        "Name":"Cooler Master MWE Gold 850 - V2 (27)",
+        "Type":"TypeATX",
+        "Efficiency Rating":"Efficiency Rating80+ Gold",
+        "Wattage":"Wattage850 W",
+        "Modular":"ModularFull",
+        "Color":"ColorBlack",
+        "Rating":"(27)",
+        "Price":"€206.69Add"
+    },
+    {
+        "Name":"Corsair RM850e (2025) (4)",
+        "Type":"TypeATX",
+        "Efficiency Rating":"Efficiency Rating",
+        "Wattage":"Wattage850 W",
+        "Modular":"ModularFull",
+        "Color":"ColorWhite",
+        "Rating":"(4)",
+        "Price":"€139.88Add"
+    },
+    {
+        "Name":"Silverstone HELA (0)",
+        "Type":"TypeATX",
+        "Efficiency Rating":"Efficiency Rating",
+        "Wattage":"Wattage2050 W",
+        "Modular":"ModularFull",
+        "Color":"ColorBlack \/ White",
+        "Rating":"(0)",
+        "Price":"Add"
+    },
+    {
+        "Name":"MSI MAG A750BN PCIE5 (5)",
+        "Type":"TypeATX",
+        "Efficiency Rating":"Efficiency Rating80+ Bronze",
+        "Wattage":"Wattage750 W",
+        "Modular":"ModularNo",
+        "Color":"ColorBlack",
+        "Rating":"(5)",
+        "Price":"€69.90Add"
+    },
+    {
+        "Name":"MSI MPG A850GS PCIE5 (3)",
+        "Type":"TypeATX",
+        "Efficiency Rating":"Efficiency Rating80+ Gold",
+        "Wattage":"Wattage850 W",
+        "Modular":"ModularFull",
+        "Color":"ColorBlack",
+        "Rating":"(3)",
+        "Price":"€133.96Add"
+    },
+    {
+        "Name":"Thermaltake Smart (47)",
+        "Type":"TypeATX",
+        "Efficiency Rating":"Efficiency Rating80+",
+        "Wattage":"Wattage600 W",
+        "Modular":"ModularNo",
+        "Color":"Color",
+        "Rating":"(47)",
+        "Price":"Add"
+    },
+    {
+        "Name":"MSI MAG A650GL (27)",
+        "Type":"TypeATX",
+        "Efficiency Rating":"Efficiency Rating80+ Gold",
+        "Wattage":"Wattage650 W",
+        "Modular":"ModularFull",
+        "Color":"ColorBlack",
+        "Rating":"(27)",
+        "Price":"€92.24Add"
+    },
+    {
+        "Name":"Montech CENTURY II (15)",
+        "Type":"TypeATX",
+        "Efficiency Rating":"Efficiency Rating80+ Gold",
+        "Wattage":"Wattage1050 W",
+        "Modular":"ModularFull",
+        "Color":"ColorBlack",
+        "Rating":"(15)",
+        "Price":"€123.10Add"
+    },
+    {
+        "Name":"Corsair HX1200i (2025) (2)",
+        "Type":"TypeATX",
+        "Efficiency Rating":"Efficiency Rating80+ Platinum",
+        "Wattage":"Wattage1200 W",
+        "Modular":"ModularFull",
+        "Color":"ColorBlack",
+        "Rating":"(2)",
+        "Price":"€274.90Add"
+    },
+    {
+        "Name":"Lian Li EDGE (14)",
+        "Type":"TypeATX",
+        "Efficiency Rating":"Efficiency Rating80+ Platinum",
+        "Wattage":"Wattage1000 W",
+        "Modular":"ModularFull",
+        "Color":"ColorWhite",
+        "Rating":"(14)",
+        "Price":"€170.69Add"
+    },
+    {
+        "Name":"Lian Li EDGE (5)",
+        "Type":"TypeATX",
+        "Efficiency Rating":"Efficiency Rating80+ Platinum",
+        "Wattage":"Wattage1000 W",
+        "Modular":"ModularFull",
+        "Color":"ColorBlack",
+        "Rating":"(5)",
+        "Price":"€203.04Add"
+    },
+    {
+        "Name":"Corsair RM750e (2025) (5)",
+        "Type":"TypeATX",
+        "Efficiency Rating":"Efficiency Rating",
+        "Wattage":"Wattage750 W",
+        "Modular":"ModularFull",
+        "Color":"ColorWhite",
+        "Rating":"(5)",
+        "Price":"€114.89Add"
+    },
+    {
+        "Name":"Cooler Master V850 SFX GOLD (54)",
+        "Type":"TypeSFX",
+        "Efficiency Rating":"Efficiency Rating80+ Gold",
+        "Wattage":"Wattage850 W",
+        "Modular":"ModularFull",
+        "Color":"ColorBlack",
+        "Rating":"(54)",
+        "Price":"€160.71Add"
+    },
+    {
+        "Name":"Apevia Galaxy (11)",
+        "Type":"TypeATX",
+        "Efficiency Rating":"Efficiency Rating80+ Gold",
+        "Wattage":"Wattage650 W",
+        "Modular":"ModularSemi",
+        "Color":"ColorBlack",
+        "Rating":"(11)",
+        "Price":"Add"
+    },
+    {
+        "Name":"SeaSonic Focus GX V4 ATX 3 (2024) (9)",
+        "Type":"TypeATX",
+        "Efficiency Rating":"Efficiency Rating80+ Gold",
+        "Wattage":"Wattage850 W",
+        "Modular":"ModularFull",
+        "Color":"ColorBlack",
+        "Rating":"(9)",
+        "Price":"€142.80Add"
+    },
+    {
+        "Name":"Apevia CAPTAIN (0)",
+        "Type":"TypeATX",
+        "Efficiency Rating":"Efficiency Rating",
+        "Wattage":"Wattage550 W",
+        "Modular":"ModularNo",
+        "Color":"ColorBlack",
+        "Rating":"(0)",
+        "Price":"Add"
+    },
+    {
+        "Name":"Corsair CX (2023) (9)",
+        "Type":"TypeATX",
+        "Efficiency Rating":"Efficiency Rating80+ Bronze",
+        "Wattage":"Wattage550 W",
+        "Modular":"ModularNo",
+        "Color":"ColorBlack",
+        "Rating":"(9)",
+        "Price":"€56.95Add"
+    },
+    {
+        "Name":"be quiet! Pure Power 12 M (37)",
+        "Type":"TypeATX",
+        "Efficiency Rating":"Efficiency Rating80+ Gold",
+        "Wattage":"Wattage850 W",
+        "Modular":"ModularFull",
+        "Color":"ColorBlack",
+        "Rating":"(37)",
+        "Price":"€149.99Add"
+    },
+    {
+        "Name":"Corsair RM1000x (34)",
+        "Type":"TypeATX",
+        "Efficiency Rating":"Efficiency Rating80+ Gold",
+        "Wattage":"Wattage1000 W",
+        "Modular":"ModularFull",
+        "Color":"Color",
+        "Rating":"(34)",
+        "Price":"Add"
+    },
+    {
+        "Name":"Corsair HX1500i (2025) (1)",
+        "Type":"TypeATX",
+        "Efficiency Rating":"Efficiency Rating80+ Platinum",
+        "Wattage":"Wattage1500 W",
+        "Modular":"ModularFull",
+        "Color":"ColorBlack",
+        "Rating":"(1)",
+        "Price":"€285.69Add"
+    },
+    {
+        "Name":"be quiet! Dark Power 13 (10)",
+        "Type":"TypeATX",
+        "Efficiency Rating":"Efficiency Rating80+ Titanium",
+        "Wattage":"Wattage1000 W",
+        "Modular":"ModularFull",
+        "Color":"ColorBlack",
+        "Rating":"(10)",
+        "Price":"€294.90Add"
+    },
+    {
+        "Name":"Lian Li EDGE (9)",
+        "Type":"TypeATX",
+        "Efficiency Rating":"Efficiency Rating80+ Platinum",
+        "Wattage":"Wattage1300 W",
+        "Modular":"ModularFull",
+        "Color":"ColorWhite",
+        "Rating":"(9)",
+        "Price":"€252.50Add"
+    },
+    {
+        "Name":"ASRock PRO-650G (0)",
+        "Type":"TypeATX",
+        "Efficiency Rating":"Efficiency Rating80+ Gold",
+        "Wattage":"Wattage650 W",
+        "Modular":"ModularNo",
+        "Color":"ColorBlack",
+        "Rating":"(0)",
+        "Price":"Add"
+    },
+    {
+        "Name":"Asus TUF Gaming 850G (8)",
+        "Type":"TypeATX",
+        "Efficiency Rating":"Efficiency Rating80+ Gold",
+        "Wattage":"Wattage850 W",
+        "Modular":"ModularFull",
+        "Color":"ColorBlack",
+        "Rating":"(8)",
+        "Price":"€127.99Add"
+    },
+    {
+        "Name":"SeaSonic CORE GX ATX 3 (2024) (2)",
+        "Type":"TypeATX",
+        "Efficiency Rating":"Efficiency Rating80+ Gold",
+        "Wattage":"Wattage750 W",
+        "Modular":"ModularFull",
+        "Color":"ColorBlack",
+        "Rating":"(2)",
+        "Price":"€118.55Add"
+    },
+    {
+        "Name":"Asus ROG Strix (2)",
+        "Type":"TypeATX",
+        "Efficiency Rating":"Efficiency Rating80+ Platinum",
+        "Wattage":"Wattage1000 W",
+        "Modular":"ModularFull",
+        "Color":"ColorBlack",
+        "Rating":"(2)",
+        "Price":"€239.90Add"
+    },
+    {
+        "Name":"MSI MAG A1000GL PCIE5 (5)",
+        "Type":"TypeATX",
+        "Efficiency Rating":"Efficiency Rating80+ Gold",
+        "Wattage":"Wattage1000 W",
+        "Modular":"ModularFull",
+        "Color":"ColorBlack",
+        "Rating":"(5)",
+        "Price":"€154.90Add"
+    },
+    {
+        "Name":"Thermaltake Smart (25)",
+        "Type":"TypeATX",
+        "Efficiency Rating":"Efficiency Rating80+",
+        "Wattage":"Wattage700 W",
+        "Modular":"ModularNo",
+        "Color":"Color",
+        "Rating":"(25)",
+        "Price":"Add"
+    },
+    {
+        "Name":"CoolMax V-400 (4)",
+        "Type":"TypeATX",
+        "Efficiency Rating":"Efficiency Rating",
+        "Wattage":"Wattage400 W",
+        "Modular":"ModularNo",
+        "Color":"Color",
+        "Rating":"(4)",
+        "Price":"Add"
+    },
+    {
+        "Name":"Thermaltake Toughpower GF1 (2024) (12)",
+        "Type":"TypeATX",
+        "Efficiency Rating":"Efficiency Rating80+ Gold",
+        "Wattage":"Wattage850 W",
+        "Modular":"ModularFull",
+        "Color":"ColorBlack",
+        "Rating":"(12)",
+        "Price":"Add"
+    },
+    {
+        "Name":"be quiet! Power Zone 2 (3)",
+        "Type":"TypeATX",
+        "Efficiency Rating":"Efficiency Rating80+ Platinum",
+        "Wattage":"Wattage1000 W",
+        "Modular":"ModularFull",
+        "Color":"ColorBlack",
+        "Rating":"(3)",
+        "Price":"€164.63Add"
+    },
+    {
+        "Name":"SAMA GT (5)",
+        "Type":"TypeATX",
+        "Efficiency Rating":"Efficiency Rating80+ Gold",
+        "Wattage":"Wattage650 W",
+        "Modular":"ModularFull",
+        "Color":"ColorBlack",
+        "Rating":"(5)",
+        "Price":"Add"
+    },
+    {
+        "Name":"Corsair RM750x (2024) (9)",
+        "Type":"TypeATX",
+        "Efficiency Rating":"Efficiency Rating",
+        "Wattage":"Wattage750 W",
+        "Modular":"ModularFull",
+        "Color":"ColorBlack",
+        "Rating":"(9)",
+        "Price":"€129.94Add"
+    },
+    {
+        "Name":"Apevia Prestige (10)",
+        "Type":"TypeATX",
+        "Efficiency Rating":"Efficiency Rating80+ Gold",
+        "Wattage":"Wattage600 W",
+        "Modular":"ModularNo",
+        "Color":"ColorBlack",
+        "Rating":"(10)",
+        "Price":"€125.65Add"
+    },
+    {
+        "Name":"Asus ROG STRIX 1000P GAMING (1)",
+        "Type":"TypeATX",
+        "Efficiency Rating":"Efficiency Rating80+ Platinum",
+        "Wattage":"Wattage1000 W",
+        "Modular":"ModularFull",
+        "Color":"ColorWhite",
+        "Rating":"(1)",
+        "Price":"€263.45Add"
+    },
+    {
+        "Name":"Gigabyte P650G (1)",
+        "Type":"TypeATX",
+        "Efficiency Rating":"Efficiency Rating80+ Gold",
+        "Wattage":"Wattage650 W",
+        "Modular":"ModularNo",
+        "Color":"ColorBlack",
+        "Rating":"(1)",
+        "Price":"€71.30Add"
+    },
+    {
+        "Name":"Corsair CX (2023) (18)",
+        "Type":"TypeATX",
+        "Efficiency Rating":"Efficiency Rating80+ Bronze",
+        "Wattage":"Wattage650 W",
+        "Modular":"ModularNo",
+        "Color":"ColorBlack",
+        "Rating":"(18)",
+        "Price":"€58.95Add"
+    },
+    {
+        "Name":"Corsair RM750x (2018) (148)",
+        "Type":"TypeATX",
+        "Efficiency Rating":"Efficiency Rating80+ Gold",
+        "Wattage":"Wattage750 W",
+        "Modular":"ModularFull",
+        "Color":"ColorBlack",
+        "Rating":"(148)",
+        "Price":"Add"
+    },
+    {
+        "Name":"Lian Li EDGE GOLD (8)",
+        "Type":"TypeATX",
+        "Efficiency Rating":"Efficiency Rating80+ Gold",
+        "Wattage":"Wattage850 W",
+        "Modular":"ModularFull",
+        "Color":"ColorWhite",
+        "Rating":"(8)",
+        "Price":"€123.10Add"
+    },
+    {
+        "Name":"Corsair RM850e (2023) (111)",
+        "Type":"TypeATX",
+        "Efficiency Rating":"Efficiency Rating80+ Gold",
+        "Wattage":"Wattage850 W",
+        "Modular":"ModularFull",
+        "Color":"ColorBlack",
+        "Rating":"(111)",
+        "Price":"Add"
+    },
+    {
+        "Name":"SeaSonic Focus GX V4 ATX 3 (2024) (4)",
+        "Type":"TypeATX",
+        "Efficiency Rating":"Efficiency Rating80+ Gold",
+        "Wattage":"Wattage1000 W",
+        "Modular":"ModularFull",
+        "Color":"ColorBlack",
+        "Rating":"(4)",
+        "Price":"€182.10Add"
+    },
+    {
+        "Name":"MSI MAG A650BE (12)",
+        "Type":"TypeATX",
+        "Efficiency Rating":"Efficiency Rating80+ Bronze",
+        "Wattage":"Wattage650 W",
+        "Modular":"ModularSemi",
+        "Color":"ColorBlack",
+        "Rating":"(12)",
+        "Price":"Add"
+    },
+    {
+        "Name":"be quiet! Dark Power Pro 13 (7)",
+        "Type":"TypeATX",
+        "Efficiency Rating":"Efficiency Rating80+ Titanium",
+        "Wattage":"Wattage1600 W",
+        "Modular":"ModularFull",
+        "Color":"ColorBlack",
+        "Rating":"(7)",
+        "Price":"€445.75Add"
+    },
+    {
+        "Name":"Thermaltake Toughpower GT (2)",
+        "Type":"TypeATX",
+        "Efficiency Rating":"Efficiency Rating80+ Gold",
+        "Wattage":"Wattage850 W",
+        "Modular":"ModularFull",
+        "Color":"ColorWhite",
+        "Rating":"(2)",
+        "Price":"Add"
+    },
+    {
+        "Name":"Corsair RM750e (2023) (165)",
+        "Type":"TypeATX",
+        "Efficiency Rating":"Efficiency Rating80+ Gold",
+        "Wattage":"Wattage750 W",
+        "Modular":"ModularFull",
+        "Color":"ColorBlack",
+        "Rating":"(165)",
+        "Price":"€159.00Add"
+    },
+    {
+        "Name":"SeaSonic PRIME TX-1600 ATX 3.1 (2)",
+        "Type":"TypeATX",
+        "Efficiency Rating":"Efficiency Rating80+ Titanium",
+        "Wattage":"Wattage1600 W",
+        "Modular":"ModularFull",
+        "Color":"ColorBlack \/ Silver",
+        "Rating":"(2)",
+        "Price":"€534.14Add"
+    },
+    {
+        "Name":"Cooler Master MWE Gold V3 (1)",
+        "Type":"TypeATX",
+        "Efficiency Rating":"Efficiency Rating80+ Gold",
+        "Wattage":"Wattage650 W",
+        "Modular":"ModularNo",
+        "Color":"ColorBlack",
+        "Rating":"(1)",
+        "Price":"€82.80Add"
+    },
+    {
+        "Name":"Lian Li EDGE (7)",
+        "Type":"TypeATX",
+        "Efficiency Rating":"Efficiency Rating80+ Platinum",
+        "Wattage":"Wattage1300 W",
+        "Modular":"ModularFull",
+        "Color":"ColorBlack",
+        "Rating":"(7)",
+        "Price":"€243.71Add"
+    },
+    {
+        "Name":"Gigabyte UD850GM (14)",
+        "Type":"TypeATX",
+        "Efficiency Rating":"Efficiency Rating80+ Gold",
+        "Wattage":"Wattage850 W",
+        "Modular":"ModularFull",
+        "Color":"ColorBlack",
+        "Rating":"(14)",
+        "Price":"€177.61Add"
+    },
+    {
+        "Name":"Asus TUF Gaming 1000G (9)",
+        "Type":"TypeATX",
+        "Efficiency Rating":"Efficiency Rating80+ Gold",
+        "Wattage":"Wattage1000 W",
+        "Modular":"ModularFull",
+        "Color":"ColorBlack",
+        "Rating":"(9)",
+        "Price":"€179.90Add"
+    },
+    {
+        "Name":"be quiet! SFX L Power (0)",
+        "Type":"TypeSFX",
+        "Efficiency Rating":"Efficiency Rating80+ Gold",
+        "Wattage":"Wattage600 W",
+        "Modular":"ModularFull",
+        "Color":"ColorBlack",
+        "Rating":"(0)",
+        "Price":"Add"
+    },
+    {
+        "Name":"Raidmax Cobra (1)",
+        "Type":"TypeATX",
+        "Efficiency Rating":"Efficiency Rating80+ Gold",
+        "Wattage":"Wattage650 W",
+        "Modular":"ModularFull",
+        "Color":"ColorBlack",
+        "Rating":"(1)",
+        "Price":"Add"
+    },
+    {
+        "Name":"Corsair RM850 (84)",
+        "Type":"TypeATX",
+        "Efficiency Rating":"Efficiency Rating80+ Gold",
+        "Wattage":"Wattage850 W",
+        "Modular":"ModularFull",
+        "Color":"ColorWhite \/ Black",
+        "Rating":"(84)",
+        "Price":"Add"
+    },
+    {
+        "Name":"Lian Li EDGE GOLD (9)",
+        "Type":"TypeATX",
+        "Efficiency Rating":"Efficiency Rating80+ Gold",
+        "Wattage":"Wattage1000 W",
+        "Modular":"ModularFull",
+        "Color":"ColorWhite",
+        "Rating":"(9)",
+        "Price":"€155.69Add"
+    },
+    {
+        "Name":"Gigabyte P750GM (33)",
+        "Type":"TypeATX",
+        "Efficiency Rating":"Efficiency Rating80+ Gold",
+        "Wattage":"Wattage750 W",
+        "Modular":"ModularFull",
+        "Color":"ColorBlack",
+        "Rating":"(33)",
+        "Price":"€92.80Add"
+    },
+    {
+        "Name":"Corsair CX (2023) (9)",
+        "Type":"TypeATX",
+        "Efficiency Rating":"Efficiency Rating80+ Bronze",
+        "Wattage":"Wattage750 W",
+        "Modular":"ModularNo",
+        "Color":"ColorBlack",
+        "Rating":"(9)",
+        "Price":"€69.95Add"
+    },
+    {
+        "Name":"NZXT C850 (2024) (10)",
+        "Type":"TypeATX",
+        "Efficiency Rating":"Efficiency Rating80+ Gold",
+        "Wattage":"Wattage850 W",
+        "Modular":"ModularFull",
+        "Color":"ColorBlack",
+        "Rating":"(10)",
+        "Price":"Out of stock€145.10Add"
+    },
+    {
+        "Name":"MSI MEG Ai1600T PCIE5 (2)",
+        "Type":"TypeATX",
+        "Efficiency Rating":"Efficiency Rating80+ Titanium",
+        "Wattage":"Wattage1600 W",
+        "Modular":"ModularFull",
+        "Color":"ColorBlack \/ Gold",
+        "Rating":"(2)",
+        "Price":"€615.88Add"
+    },
+    {
+        "Name":"Gigabyte UD750GM PG5 V2 (0)",
+        "Type":"TypeATX",
+        "Efficiency Rating":"Efficiency Rating80+ Gold",
+        "Wattage":"Wattage750 W",
+        "Modular":"ModularFull",
+        "Color":"ColorBlack",
+        "Rating":"(0)",
+        "Price":"€85.84Add"
+    },
+    {
+        "Name":"be quiet! Dark Power 14 (0)",
+        "Type":"TypeATX",
+        "Efficiency Rating":"Efficiency Rating80+ Titanium",
+        "Wattage":"Wattage1200 W",
+        "Modular":"ModularFull",
+        "Color":"ColorBlack",
+        "Rating":"(0)",
+        "Price":"€280.32Add"
+    },
+    {
+        "Name":"Apevia Galaxy (3)",
+        "Type":"TypeATX",
+        "Efficiency Rating":"Efficiency Rating80+ Gold",
+        "Wattage":"Wattage850 W",
+        "Modular":"ModularSemi",
+        "Color":"ColorBlack",
+        "Rating":"(3)",
+        "Price":"Add"
+    },
+    {
+        "Name":"ASRock Steel Legend SL-850G (1)",
+        "Type":"TypeATX",
+        "Efficiency Rating":"Efficiency Rating80+ Gold",
+        "Wattage":"Wattage850 W",
+        "Modular":"ModularFull",
+        "Color":"ColorBlack",
+        "Rating":"(1)",
+        "Price":"€125.80Add"
+    },
+    {
+        "Name":"Rosewill VSB (3)",
+        "Type":"TypeATX",
+        "Efficiency Rating":"Efficiency Rating80+ Bronze",
+        "Wattage":"Wattage650 W",
+        "Modular":"ModularSemi",
+        "Color":"ColorBlack",
+        "Rating":"(3)",
+        "Price":"Add"
+    },
+    {
+        "Name":"Gigabyte UD750GM PG5 V2 (0)",
+        "Type":"TypeATX",
+        "Efficiency Rating":"Efficiency Rating80+ Gold",
+        "Wattage":"Wattage750 W",
+        "Modular":"ModularFull",
+        "Color":"ColorWhite",
+        "Rating":"(0)",
+        "Price":"€85.84Add"
+    },
+    {
+        "Name":"be quiet! Power Zone 2 (1)",
+        "Type":"TypeATX",
+        "Efficiency Rating":"Efficiency Rating80+ Platinum",
+        "Wattage":"Wattage850 W",
+        "Modular":"ModularFull",
+        "Color":"ColorBlack",
+        "Rating":"(1)",
+        "Price":"€143.27Add"
+    },
+    {
+        "Name":"SeaSonic FOCUS GX (48)",
+        "Type":"TypeATX",
+        "Efficiency Rating":"Efficiency Rating80+ Gold",
+        "Wattage":"Wattage750 W",
+        "Modular":"ModularFull",
+        "Color":"ColorBlack",
+        "Rating":"(48)",
+        "Price":"Add"
+    },
+    {
+        "Name":"MSI MPG A850G PCIE5 (33)",
+        "Type":"TypeATX",
+        "Efficiency Rating":"Efficiency Rating80+ Gold",
+        "Wattage":"Wattage850 W",
+        "Modular":"ModularFull",
+        "Color":"ColorBlack",
+        "Rating":"(33)",
+        "Price":"€141.80Add"
+    },
+    {
+        "Name":"Lian Li EDGE GOLD (8)",
+        "Type":"TypeATX",
+        "Efficiency Rating":"Efficiency Rating80+ Gold",
+        "Wattage":"Wattage850 W",
+        "Modular":"ModularFull",
+        "Color":"ColorBlack",
+        "Rating":"(8)",
+        "Price":"Add"
+    },
+    {
+        "Name":"MSI A1000G PCIE5 (44)",
+        "Type":"TypeATX",
+        "Efficiency Rating":"Efficiency Rating80+ Gold",
+        "Wattage":"Wattage1000 W",
+        "Modular":"ModularFull",
+        "Color":"ColorBlack",
+        "Rating":"(44)",
+        "Price":"€142.94Add"
+    }
+]

@@ -1,0 +1,101 @@
+﻿Name,Core Count,Performance Core Clock,Performance Core Boost Clock,Microarchitecture,TDP,Integrated Graphics,Rating,Price
+AMD Ryzen 7 9800X3D (367),Core Count8,Performance Core Clock4.7 GHz,Performance Core Boost Clock5.2 GHz,MicroarchitectureZen 5,TDP120 W,Integrated GraphicsRadeon,(367),€460.00Add
+AMD Ryzen 7 7800X3D (616),Core Count8,Performance Core Clock4.2 GHz,Performance Core Boost Clock5 GHz,MicroarchitectureZen 4,TDP120 W,Integrated GraphicsRadeon,(616),€370.00Add
+AMD Ryzen 5 9600X (107),Core Count6,Performance Core Clock3.9 GHz,Performance Core Boost Clock5.4 GHz,MicroarchitectureZen 5,TDP65 W,Integrated GraphicsRadeon,(107),€194.95Add
+AMD Ryzen 5 7600X (337),Core Count6,Performance Core Clock4.7 GHz,Performance Core Boost Clock5.3 GHz,MicroarchitectureZen 4,TDP105 W,Integrated GraphicsRadeon,(337),€174.95Add
+AMD Ryzen 5 5500 (91),Core Count6,Performance Core Clock3.6 GHz,Performance Core Boost Clock4.2 GHz,MicroarchitectureZen 3,TDP65 W,Integrated GraphicsNone,(91),€84.86Add
+AMD Ryzen 9 9950X3D (45),Core Count16,Performance Core Clock4.3 GHz,Performance Core Boost Clock5.7 GHz,MicroarchitectureZen 5,TDP170 W,Integrated GraphicsRadeon,(45),€668.00Add
+AMD Ryzen 5 5600 (189),Core Count6,Performance Core Clock3.5 GHz,Performance Core Boost Clock4.4 GHz,MicroarchitectureZen 3,TDP65 W,Integrated GraphicsNone,(189),€138.90Add
+AMD Ryzen 7 7700X (213),Core Count8,Performance Core Clock4.5 GHz,Performance Core Boost Clock5.4 GHz,MicroarchitectureZen 4,TDP105 W,Integrated GraphicsRadeon,(213),€248.90Add
+AMD Ryzen 7 9700X (105),Core Count8,Performance Core Clock3.8 GHz,Performance Core Boost Clock5.5 GHz,MicroarchitectureZen 5,TDP65 W,Integrated GraphicsRadeon,(105),€289.95Add
+AMD Ryzen 7 5800X (362),Core Count8,Performance Core Clock3.8 GHz,Performance Core Boost Clock4.7 GHz,MicroarchitectureZen 3,TDP105 W,Integrated GraphicsNone,(362),€184.87Add
+AMD Ryzen 5 3600 (1192),Core Count6,Performance Core Clock3.6 GHz,Performance Core Boost Clock4.2 GHz,MicroarchitectureZen 2,TDP65 W,Integrated GraphicsNone,(1192),€111.82Add
+AMD Ryzen 5 5600X (719),Core Count6,Performance Core Clock3.7 GHz,Performance Core Boost Clock4.6 GHz,MicroarchitectureZen 3,TDP65 W,Integrated GraphicsNone,(719),€154.88Add
+AMD Ryzen 7 5700X (123),Core Count8,Performance Core Clock3.4 GHz,Performance Core Boost Clock4.6 GHz,MicroarchitectureZen 3,TDP65 W,Integrated GraphicsNone,(123),€179.90Add
+Intel Core i7-14700K (47),Core Count20,Performance Core Clock3.4 GHz,Performance Core Boost Clock5.6 GHz,MicroarchitectureRaptor Lake Refresh,TDP125 W,Integrated GraphicsIntel UHD Graphics 770,(47),€354.95Add
+Intel Core i5-12400F (105),Core Count6,Performance Core Clock2.5 GHz,Performance Core Boost Clock4.4 GHz,MicroarchitectureAlder Lake,TDP65 W,Integrated GraphicsNone,(105),€135.87Add
+AMD Ryzen 9 9900X (47),Core Count12,Performance Core Clock4.4 GHz,Performance Core Boost Clock5.6 GHz,MicroarchitectureZen 5,TDP120 W,Integrated GraphicsRadeon,(47),€388.95Add
+Intel Core i9-14900K (42),Core Count24,Performance Core Clock3.2 GHz,Performance Core Boost Clock6 GHz,MicroarchitectureRaptor Lake Refresh,TDP125 W,Integrated GraphicsIntel UHD Graphics 770,(42),€464.67Add
+AMD Ryzen 7 5800XT (9),Core Count8,Performance Core Clock3.8 GHz,Performance Core Boost Clock4.8 GHz,MicroarchitectureZen 3,TDP105 W,Integrated GraphicsNone,(9),€201.50Add
+AMD Ryzen 5 7500F (28),Core Count6,Performance Core Clock3.7 GHz,Performance Core Boost Clock5 GHz,MicroarchitectureZen 4,TDP65 W,Integrated GraphicsNone,(28),€147.12Add
+AMD Ryzen 7 5800X3D (128),Core Count8,Performance Core Clock3.4 GHz,Performance Core Boost Clock4.5 GHz,MicroarchitectureZen 3,TDP105 W,Integrated GraphicsNone,(128),Add
+Intel Core Ultra 7 265K (21),Core Count20,Performance Core Clock3.9 GHz,Performance Core Boost Clock5.5 GHz,MicroarchitectureArrow Lake,TDP125 W,Integrated GraphicsIntel Xe,(21),€299.89Add
+AMD Ryzen 5 7600 (200),Core Count6,Performance Core Clock3.8 GHz,Performance Core Boost Clock5.1 GHz,MicroarchitectureZen 4,TDP65 W,Integrated GraphicsRadeon,(200),€173.89Add
+AMD Ryzen 9 7900X (101),Core Count12,Performance Core Clock4.7 GHz,Performance Core Boost Clock5.6 GHz,MicroarchitectureZen 4,TDP170 W,Integrated GraphicsRadeon,(101),€319.95Add
+AMD Threadripper 3990X (1),Core Count64,Performance Core Clock2.9 GHz,Performance Core Boost Clock4.3 GHz,MicroarchitectureZen 2,TDP280 W,Integrated GraphicsNone,(1),Add
+Intel Core i5-12600KF (97),Core Count10,Performance Core Clock3.7 GHz,Performance Core Boost Clock4.9 GHz,MicroarchitectureAlder Lake,TDP125 W,Integrated GraphicsNone,(97),€175.79Add
+Intel Core Ultra 9 285K (7),Core Count24,Performance Core Clock3.7 GHz,Performance Core Boost Clock5.7 GHz,MicroarchitectureArrow Lake,TDP125 W,Integrated GraphicsIntel Xe,(7),€524.90Add
+AMD Ryzen 5 8500G (3),Core Count6,Performance Core Clock4.1 GHz,Performance Core Boost Clock5 GHz,MicroarchitectureZen 4,TDP65 W,Integrated GraphicsRadeon 740M,(3),€147.87Add
+Intel Core i7-12700KF (66),Core Count12,Performance Core Clock3.6 GHz,Performance Core Boost Clock5 GHz,MicroarchitectureAlder Lake,TDP125 W,Integrated GraphicsNone,(66),€254.87Add
+AMD Ryzen 9 5900X (247),Core Count12,Performance Core Clock3.7 GHz,Performance Core Boost Clock4.8 GHz,MicroarchitectureZen 3,TDP105 W,Integrated GraphicsNone,(247),€619.03Add
+Intel Core i5-14600K (28),Core Count14,Performance Core Clock3.5 GHz,Performance Core Boost Clock5.3 GHz,MicroarchitectureRaptor Lake Refresh,TDP125 W,Integrated GraphicsIntel UHD Graphics 770,(28),€240.91Add
+AMD Ryzen 9 5950X (112),Core Count16,Performance Core Clock3.4 GHz,Performance Core Boost Clock4.9 GHz,MicroarchitectureZen 3,TDP105 W,Integrated GraphicsNone,(112),€299.00Add
+Intel Core i5-14400F (1),Core Count10,Performance Core Clock2.5 GHz,Performance Core Boost Clock4.7 GHz,MicroarchitectureRaptor Lake Refresh,TDP65 W,Integrated GraphicsNone,(1),€188.56Add
+AMD Ryzen 7 5700G (53),Core Count8,Performance Core Clock3.8 GHz,Performance Core Boost Clock4.6 GHz,MicroarchitectureZen 3,TDP65 W,Integrated GraphicsRadeon Vega 8,(53),€174.86Add
+AMD Ryzen 5 7600X3D (37),Core Count6,Performance Core Clock4.1 GHz,Performance Core Boost Clock4.7 GHz,MicroarchitectureZen 4,TDP65 W,Integrated GraphicsRadeon,(37),€329.40Add
+AMD Ryzen 9 9950X (22),Core Count16,Performance Core Clock4.3 GHz,Performance Core Boost Clock5.7 GHz,MicroarchitectureZen 5,TDP170 W,Integrated GraphicsRadeon,(22),€522.00Add
+AMD Ryzen 7 3700X (638),Core Count8,Performance Core Clock3.6 GHz,Performance Core Boost Clock4.4 GHz,MicroarchitectureZen 2,TDP65 W,Integrated GraphicsNone,(638),€503.84Add
+AMD Ryzen 5 5600G (148),Core Count6,Performance Core Clock3.9 GHz,Performance Core Boost Clock4.4 GHz,MicroarchitectureZen 3,TDP65 W,Integrated GraphicsRadeon Vega 7,(148),€174.00Add
+Intel Core i5-14600KF (14),Core Count14,Performance Core Clock3.5 GHz,Performance Core Boost Clock5.3 GHz,MicroarchitectureRaptor Lake Refresh,TDP125 W,Integrated GraphicsNone,(14),€228.61Add
+AMD Ryzen 7 5700X3D (38),Core Count8,Performance Core Clock3 GHz,Performance Core Boost Clock4.1 GHz,MicroarchitectureZen 3,TDP105 W,Integrated GraphicsNone,(38),Add
+AMD Ryzen 5 5600XT (2),Core Count6,Performance Core Clock3.7 GHz,Performance Core Boost Clock4.7 GHz,MicroarchitectureZen 3,TDP65 W,Integrated GraphicsNone,(2),€143.49Add
+Intel Core i5-12600K (160),Core Count10,Performance Core Clock3.7 GHz,Performance Core Boost Clock4.9 GHz,MicroarchitectureAlder Lake,TDP125 W,Integrated GraphicsIntel UHD Graphics 770,(160),€200.99Add
+Intel Core i9-12900K (76),Core Count16,Performance Core Clock3.2 GHz,Performance Core Boost Clock5.2 GHz,MicroarchitectureAlder Lake,TDP125 W,Integrated GraphicsIntel UHD Graphics 770,(76),€336.87Add
+Intel Core i7-12700K (151),Core Count12,Performance Core Clock3.6 GHz,Performance Core Boost Clock5 GHz,MicroarchitectureAlder Lake,TDP125 W,Integrated GraphicsIntel UHD Graphics 770,(151),€275.79Add
+AMD Ryzen 7 5700 (5),Core Count8,Performance Core Clock3.7 GHz,Performance Core Boost Clock4.6 GHz,MicroarchitectureZen 3,TDP65 W,Integrated GraphicsNone,(5),€178.83Add
+AMD Ryzen 5 8400F (6),Core Count6,Performance Core Clock4.2 GHz,Performance Core Boost Clock4.7 GHz,MicroarchitectureZen 4,TDP65 W,Integrated GraphicsNone,(6),€139.90Add
+AMD Ryzen 9 9900X3D (3),Core Count12,Performance Core Clock4.4 GHz,Performance Core Boost Clock5.5 GHz,MicroarchitectureZen 5,TDP120 W,Integrated GraphicsRadeon,(3),€563.00Add
+AMD Ryzen 3 3200G (63),Core Count4,Performance Core Clock3.6 GHz,Performance Core Boost Clock4 GHz,MicroarchitectureZen+,TDP65 W,Integrated GraphicsRadeon Vega 8,(63),€59.95Add
+AMD Ryzen 5 4500 (24),Core Count6,Performance Core Clock3.6 GHz,Performance Core Boost Clock4.1 GHz,MicroarchitectureZen 2,TDP65 W,Integrated GraphicsNone,(24),€55.95Add
+Intel Core i3-12100F (57),Core Count4,Performance Core Clock3.3 GHz,Performance Core Boost Clock4.3 GHz,MicroarchitectureAlder Lake,TDP58 W,Integrated GraphicsNone,(57),€83.95Add
+AMD Ryzen 7 8700F (3),Core Count8,Performance Core Clock4.1 GHz,Performance Core Boost Clock5 GHz,MicroarchitectureZen 4,TDP65 W,Integrated GraphicsNone,(3),€235.95Add
+AMD Ryzen 7 7700 (62),Core Count8,Performance Core Clock3.6 GHz,Performance Core Boost Clock5.3 GHz,MicroarchitectureZen 4,TDP65 W,Integrated GraphicsRadeon,(62),€237.05Add
+Intel Core Ultra 7 265KF (9),Core Count20,Performance Core Clock3.9 GHz,Performance Core Boost Clock5.5 GHz,MicroarchitectureArrow Lake,TDP125 W,Integrated GraphicsNone,(9),€274.95Add
+AMD Ryzen 5 5600GT (3),Core Count6,Performance Core Clock3.6 GHz,Performance Core Boost Clock4.6 GHz,MicroarchitectureZen 3,TDP65 W,Integrated GraphicsRadeon Vega 7,(3),€149.94Add
+Intel Core i7-14700F (1),Core Count20,Performance Core Clock2.1 GHz,Performance Core Boost Clock5.4 GHz,MicroarchitectureRaptor Lake Refresh,TDP65 W,Integrated GraphicsNone,(1),€311.80Add
+Intel Core Ultra 5 225F (1),Core Count10,Performance Core Clock3.3 GHz,Performance Core Boost Clock4.9 GHz,MicroarchitectureArrow Lake,TDP65 W,Integrated GraphicsNone,(1),€144.94Add
+Intel Core i5-10400F (63),Core Count6,Performance Core Clock2.9 GHz,Performance Core Boost Clock4.3 GHz,MicroarchitectureComet Lake,TDP65 W,Integrated GraphicsNone,(63),€106.87Add
+AMD Ryzen 5 2600 (500),Core Count6,Performance Core Clock3.4 GHz,Performance Core Boost Clock3.9 GHz,MicroarchitectureZen+,TDP65 W,Integrated GraphicsNone,(500),€309.45Add
+Intel Core i9-14900KF (14),Core Count24,Performance Core Clock3.2 GHz,Performance Core Boost Clock6 GHz,MicroarchitectureRaptor Lake Refresh,TDP125 W,Integrated GraphicsNone,(14),€447.91Add
+Intel Core Ultra 5 245K (1),Core Count14,Performance Core Clock4.2 GHz,Performance Core Boost Clock5.2 GHz,MicroarchitectureArrow Lake,TDP125 W,Integrated GraphicsIntel Xe,(1),€207.95Add
+Intel Core i7-9700K (226),Core Count8,Performance Core Clock3.6 GHz,Performance Core Boost Clock4.9 GHz,MicroarchitectureCoffee Lake Refresh,TDP95 W,Integrated GraphicsIntel UHD Graphics 630,(226),€286.66Add
+Intel Core i7-14700KF (17),Core Count20,Performance Core Clock3.4 GHz,Performance Core Boost Clock5.6 GHz,MicroarchitectureRaptor Lake Refresh,TDP125 W,Integrated GraphicsNone,(17),€339.80Add
+AMD Ryzen 5 3400G (56),Core Count4,Performance Core Clock3.7 GHz,Performance Core Boost Clock4.2 GHz,MicroarchitectureZen+,TDP65 W,Integrated GraphicsRadeon Vega 11,(56),€58.90Add
+AMD Ryzen 9 7950X3D (73),Core Count16,Performance Core Clock4.2 GHz,Performance Core Boost Clock5.7 GHz,MicroarchitectureZen 4,TDP120 W,Integrated GraphicsRadeon,(73),€794.42Add
+Intel Core i5-13400F (22),Core Count10,Performance Core Clock2.5 GHz,Performance Core Boost Clock4.6 GHz,MicroarchitectureRaptor Lake,TDP65 W,Integrated GraphicsNone,(22),€192.87Add
+Intel Core i9-12900KF (9),Core Count16,Performance Core Clock3.2 GHz,Performance Core Boost Clock5.2 GHz,MicroarchitectureAlder Lake,TDP125 W,Integrated GraphicsNone,(9),€294.87Add
+AMD Ryzen 5 7500F (40),Core Count6,Performance Core Clock3.7 GHz,Performance Core Boost Clock5 GHz,MicroarchitectureZen 4,TDP65 W,Integrated GraphicsNone,(40),Add
+AMD Ryzen 9 5900XT (2),Core Count16,Performance Core Clock3.3 GHz,Performance Core Boost Clock4.8 GHz,MicroarchitectureZen 3,TDP105 W,Integrated GraphicsNone,(2),Out of stock€319.50Add
+AMD Ryzen 7 8700G (3),Core Count8,Performance Core Clock4.2 GHz,Performance Core Boost Clock5.1 GHz,MicroarchitectureZen 4,TDP65 W,Integrated GraphicsRadeon 780M,(3),€284.39Add
+Intel Core i7-8700K (306),Core Count6,Performance Core Clock3.7 GHz,Performance Core Boost Clock4.7 GHz,MicroarchitectureCoffee Lake,TDP95 W,Integrated GraphicsIntel UHD Graphics 630,(306),€282.16Add
+Intel Core Ultra 5 245KF (0),Core Count14,Performance Core Clock4.2 GHz,Performance Core Boost Clock5.2 GHz,MicroarchitectureArrow Lake,TDP125 W,Integrated GraphicsNone,(0),€194.89Add
+AMD Ryzen 5 3600X (199),Core Count6,Performance Core Clock3.8 GHz,Performance Core Boost Clock4.4 GHz,MicroarchitectureZen 2,TDP95 W,Integrated GraphicsNone,(199),€392.81Add
+AMD Ryzen 7 2700X (359),Core Count8,Performance Core Clock3.7 GHz,Performance Core Boost Clock4.3 GHz,MicroarchitectureZen+,TDP105 W,Integrated GraphicsNone,(359),€490.78Add
+AMD Ryzen 5 8600G (15),Core Count6,Performance Core Clock4.3 GHz,Performance Core Boost Clock5 GHz,MicroarchitectureZen 4,TDP65 W,Integrated GraphicsRadeon 760M,(15),€177.89Add
+AMD Ryzen 5 5500GT (5),Core Count6,Performance Core Clock3.6 GHz,Performance Core Boost Clock4.4 GHz,MicroarchitectureZen 3,TDP65 W,Integrated GraphicsRadeon Vega 7,(5),€138.98Add
+Intel Celeron E3400 (0),Core Count2,Performance Core Clock2.6 GHz,Performance Core Boost Clock,MicroarchitectureWolfdale,TDP65 W,Integrated GraphicsNone,(0),€121.55Add
+AMD Ryzen 3 4100 (7),Core Count4,Performance Core Clock3.8 GHz,Performance Core Boost Clock4 GHz,MicroarchitectureZen 2,TDP65 W,Integrated GraphicsNone,(7),€49.95Add
+Intel Core i3-14100F (1),Core Count4,Performance Core Clock3.5 GHz,Performance Core Boost Clock4.7 GHz,MicroarchitectureRaptor Lake Refresh,TDP58 W,Integrated GraphicsNone,(1),€90.99Add
+AMD Ryzen 5 7500X3D (0),Core Count6,Performance Core Clock4 GHz,Performance Core Boost Clock4.5 GHz,MicroarchitectureZen 4,TDP65 W,Integrated GraphicsRadeon,(0),€233.79Add
+AMD Ryzen 7 7800X3D (3),Core Count8,Performance Core Clock4.2 GHz,Performance Core Boost Clock5 GHz,MicroarchitectureZen 4,TDP120 W,Integrated GraphicsRadeon,(3),€330.14Add
+Intel Core i7-7700K (304),Core Count4,Performance Core Clock4.2 GHz,Performance Core Boost Clock4.5 GHz,MicroarchitectureKaby Lake,TDP91 W,Integrated GraphicsIntel HD Graphics 630,(304),€258.66Add
+Intel Core i7-13700K (132),Core Count16,Performance Core Clock3.4 GHz,Performance Core Boost Clock5.4 GHz,MicroarchitectureRaptor Lake,TDP125 W,Integrated GraphicsIntel UHD Graphics 770,(132),€365.03Add
+Intel Core i9-9900K (211),Core Count8,Performance Core Clock3.6 GHz,Performance Core Boost Clock5 GHz,MicroarchitectureCoffee Lake Refresh,TDP95 W,Integrated GraphicsIntel UHD Graphics 630,(211),€472.66Add
+Intel Core i9-14900KS (2),Core Count24,Performance Core Clock3.2 GHz,Performance Core Boost Clock6.2 GHz,MicroarchitectureRaptor Lake Refresh,TDP150 W,Integrated GraphicsIntel UHD Graphics 770,(2),€722.80Add
+AMD Ryzen 9 7900X3D (24),Core Count12,Performance Core Clock4.4 GHz,Performance Core Boost Clock5.6 GHz,MicroarchitectureZen 4,TDP120 W,Integrated GraphicsRadeon,(24),€572.79Add
+AMD Ryzen 9 3900X (280),Core Count12,Performance Core Clock3.8 GHz,Performance Core Boost Clock4.6 GHz,MicroarchitectureZen 2,TDP105 W,Integrated GraphicsNone,(280),€622.66Add
+AMD Ryzen 9 7950X (50),Core Count16,Performance Core Clock4.5 GHz,Performance Core Boost Clock5.7 GHz,MicroarchitectureZen 4,TDP170 W,Integrated GraphicsRadeon,(50),€868.33Add
+Intel Core i5-13600K (110),Core Count14,Performance Core Clock3.5 GHz,Performance Core Boost Clock5.1 GHz,MicroarchitectureRaptor Lake,TDP125 W,Integrated GraphicsIntel UHD Graphics 770,(110),€280.20Add
+Intel Core i3-10100F (26),Core Count4,Performance Core Clock3.6 GHz,Performance Core Boost Clock4.3 GHz,MicroarchitectureComet Lake,TDP65 W,Integrated GraphicsNone,(26),€81.38Add
+Intel Core i9-13900K (67),Core Count24,Performance Core Clock3 GHz,Performance Core Boost Clock5.8 GHz,MicroarchitectureRaptor Lake,TDP125 W,Integrated GraphicsIntel UHD Graphics 770,(67),€470.34Add
+Intel Core i7-10700K (104),Core Count8,Performance Core Clock3.8 GHz,Performance Core Boost Clock5.1 GHz,MicroarchitectureComet Lake,TDP125 W,Integrated GraphicsIntel UHD Graphics 630,(104),€425.66Add
+AMD Threadripper 3970X (8),Core Count32,Performance Core Clock3.7 GHz,Performance Core Boost Clock4.5 GHz,MicroarchitectureZen 2,TDP280 W,Integrated GraphicsNone,(8),Add
+Intel Core i7-6700K (508),Core Count4,Performance Core Clock4 GHz,Performance Core Boost Clock4.2 GHz,MicroarchitectureSkylake,TDP91 W,Integrated GraphicsIntel HD Graphics 530,(508),€225.66Add
+Intel Core i5-9400F (48),Core Count6,Performance Core Clock2.9 GHz,Performance Core Boost Clock4.1 GHz,MicroarchitectureCoffee Lake Refresh,TDP65 W,Integrated GraphicsNone,(48),€155.66Add
+Intel Core i3-6100 (159),Core Count2,Performance Core Clock3.7 GHz,Performance Core Boost Clock,MicroarchitectureSkylake,TDP51 W,Integrated GraphicsIntel HD Graphics 530,(159),€71.17Add
+AMD Ryzen 7 3800X (139),Core Count8,Performance Core Clock3.9 GHz,Performance Core Boost Clock4.5 GHz,MicroarchitectureZen 2,TDP105 W,Integrated GraphicsNone,(139),Add
+Intel Core i5-11400F (24),Core Count6,Performance Core Clock2.6 GHz,Performance Core Boost Clock4.4 GHz,MicroarchitectureRocket Lake,TDP65 W,Integrated GraphicsNone,(24),€166.00Add
+Intel Core i5-12400 (38),Core Count6,Performance Core Clock2.5 GHz,Performance Core Boost Clock4.4 GHz,MicroarchitectureAlder Lake,TDP65 W,Integrated GraphicsIntel UHD Graphics 730,(38),€192.60Add
+AMD Ryzen 5 1600 (14nm) (354),Core Count6,Performance Core Clock3.2 GHz,Performance Core Boost Clock3.6 GHz,MicroarchitectureZen,TDP65 W,Integrated GraphicsNone,(354),€187.16Add
+Intel Core i5-14400 (2),Core Count10,Performance Core Clock2.5 GHz,Performance Core Boost Clock4.7 GHz,MicroarchitectureRaptor Lake Refresh,TDP65 W,Integrated GraphicsIntel UHD Graphics 730,(2),€256.81Add
+AMD Ryzen 9 7900 (19),Core Count12,Performance Core Clock3.7 GHz,Performance Core Boost Clock5.4 GHz,MicroarchitectureZen 4,TDP65 W,Integrated GraphicsRadeon,(19),€304.87Add

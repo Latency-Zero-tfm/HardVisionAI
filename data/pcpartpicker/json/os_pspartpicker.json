@@ -1,0 +1,436 @@
+[
+    {
+        "Name":"Microsoft Windows 11 Home OEM - DVD 64-bit (150)",
+        "Mode":"Mode64-bit",
+        "Maximum Supported Memory":"Maximum Supported Memory128 GB",
+        "Rating":"(150)",
+        "Price":"€111.82Add"
+    },
+    {
+        "Name":"Microsoft Windows 11 Pro OEM - DVD 64-bit (148)",
+        "Mode":"Mode64-bit",
+        "Maximum Supported Memory":"Maximum Supported Memory2048 GB",
+        "Rating":"(148)",
+        "Price":"€89.99Add"
+    },
+    {
+        "Name":"Microsoft Windows 11 Home Retail - USB 64-bit (90)",
+        "Mode":"Mode64-bit",
+        "Maximum Supported Memory":"Maximum Supported Memory128 GB",
+        "Rating":"(90)",
+        "Price":"€163.53Add"
+    },
+    {
+        "Name":"Microsoft Windows 11 Pro Retail - Download 64-bit (98)",
+        "Mode":"Mode64-bit",
+        "Maximum Supported Memory":"Maximum Supported Memory2048 GB",
+        "Rating":"(98)",
+        "Price":"€147.11Add"
+    },
+    {
+        "Name":"Microsoft Windows 11 Home Retail - Download 64-bit (50)",
+        "Mode":"Mode64-bit",
+        "Maximum Supported Memory":"Maximum Supported Memory128 GB",
+        "Rating":"(50)",
+        "Price":"Add"
+    },
+    {
+        "Name":"Microsoft Windows 11 Pro Retail - USB 64-bit (37)",
+        "Mode":"Mode64-bit",
+        "Maximum Supported Memory":"Maximum Supported Memory2048 GB",
+        "Rating":"(37)",
+        "Price":"€270.81Add"
+    },
+    {
+        "Name":"Microsoft Windows 10 Home OEM - DVD 64-bit (1068)",
+        "Mode":"Mode64-bit",
+        "Maximum Supported Memory":"Maximum Supported Memory128 GB",
+        "Rating":"(1068)",
+        "Price":"Add"
+    },
+    {
+        "Name":"Microsoft Windows 10 Home Retail - USB 32\/64-bit (82)",
+        "Mode":"Mode32\/64-bit",
+        "Maximum Supported Memory":"Maximum Supported Memory128 GB",
+        "Rating":"(82)",
+        "Price":"Add"
+    },
+    {
+        "Name":"Microsoft Windows 10 Pro Retail - USB 32\/64-bit (28)",
+        "Mode":"Mode32\/64-bit",
+        "Maximum Supported Memory":"Maximum Supported Memory2048 GB",
+        "Rating":"(28)",
+        "Price":"Add"
+    },
+    {
+        "Name":"Microsoft Windows 10 Home Retail - USB 32\/64-bit (19)",
+        "Mode":"Mode32\/64-bit",
+        "Maximum Supported Memory":"Maximum Supported Memory128 GB",
+        "Rating":"(19)",
+        "Price":"Add"
+    },
+    {
+        "Name":"Microsoft Windows 10 Pro OEM - DVD 64-bit (757)",
+        "Mode":"Mode64-bit",
+        "Maximum Supported Memory":"Maximum Supported Memory2048 GB",
+        "Rating":"(757)",
+        "Price":"Out of stock€123.88Add"
+    },
+    {
+        "Name":"Microsoft Windows 10 Pro Retail - Download 32\/64-bit (57)",
+        "Mode":"Mode32\/64-bit",
+        "Maximum Supported Memory":"Maximum Supported Memory2048 GB",
+        "Rating":"(57)",
+        "Price":"Add"
+    },
+    {
+        "Name":"Microsoft Windows 7 Home Premium Full 32\/64-bit (31)",
+        "Mode":"Mode32\/64-bit",
+        "Maximum Supported Memory":"Maximum Supported Memory16 GB",
+        "Rating":"(31)",
+        "Price":"€274.86Add"
+    },
+    {
+        "Name":"Microsoft Windows 10 Home Retail - Download 32\/64-bit (75)",
+        "Mode":"Mode32\/64-bit",
+        "Maximum Supported Memory":"Maximum Supported Memory128 GB",
+        "Rating":"(75)",
+        "Price":"Add"
+    },
+    {
+        "Name":"Microsoft Windows 7 Professional Full 32\/64-bit (19)",
+        "Mode":"Mode32\/64-bit",
+        "Maximum Supported Memory":"Maximum Supported Memory192 GB",
+        "Rating":"(19)",
+        "Price":"Add"
+    },
+    {
+        "Name":"Microsoft Windows 10 Pro French CDN - Retail - DVD 64-bit (8)",
+        "Mode":"Mode64-bit",
+        "Maximum Supported Memory":"Maximum Supported Memory2048 GB",
+        "Rating":"(8)",
+        "Price":"Add"
+    },
+    {
+        "Name":"Microsoft Windows 8.1 32\/64-bit (113)",
+        "Mode":"Mode32\/64-bit",
+        "Maximum Supported Memory":"Maximum Supported Memory128 GB",
+        "Rating":"(113)",
+        "Price":"Add"
+    },
+    {
+        "Name":"Microsoft Windows 10 Pro Retail - USB 32\/64-bit (10)",
+        "Mode":"Mode32\/64-bit",
+        "Maximum Supported Memory":"Maximum Supported Memory2048 GB",
+        "Rating":"(10)",
+        "Price":"Add"
+    },
+    {
+        "Name":"Microsoft Windows 10 Home OEM - DVD 64-bit (79)",
+        "Mode":"Mode64-bit",
+        "Maximum Supported Memory":"Maximum Supported Memory128 GB",
+        "Rating":"(79)",
+        "Price":"Add"
+    },
+    {
+        "Name":"Microsoft Windows 10 Pro Retail - USB 32\/64-bit (19)",
+        "Mode":"Mode32\/64-bit",
+        "Maximum Supported Memory":"Maximum Supported Memory2048 GB",
+        "Rating":"(19)",
+        "Price":"Add"
+    },
+    {
+        "Name":"Microsoft Windows 10 Home French - USB 32\/64-bit (1)",
+        "Mode":"Mode32\/64-bit",
+        "Maximum Supported Memory":"Maximum Supported Memory128 GB",
+        "Rating":"(1)",
+        "Price":"Add"
+    },
+    {
+        "Name":"Microsoft Windows 10 Home French OEM - DVD 64-bit (2)",
+        "Mode":"Mode64-bit",
+        "Maximum Supported Memory":"Maximum Supported Memory128 GB",
+        "Rating":"(2)",
+        "Price":"Add"
+    },
+    {
+        "Name":"Microsoft Windows 10 Home OEM - DVD 32-bit (1)",
+        "Mode":"Mode32-bit",
+        "Maximum Supported Memory":"Maximum Supported Memory4 GB",
+        "Rating":"(1)",
+        "Price":"Add"
+    },
+    {
+        "Name":"Microsoft Windows 10 Pro OEM - DVD 32-bit (0)",
+        "Mode":"Mode32-bit",
+        "Maximum Supported Memory":"Maximum Supported Memory4 GB",
+        "Rating":"(0)",
+        "Price":"Add"
+    },
+    {
+        "Name":"Microsoft Windows 8 Pro OEM 32-bit (1)",
+        "Mode":"Mode32-bit",
+        "Maximum Supported Memory":"Maximum Supported Memory4 GB",
+        "Rating":"(1)",
+        "Price":"€178.98Add"
+    },
+    {
+        "Name":"Microsoft Windows 7 Professional SP1 OEM 64-bit (298)",
+        "Mode":"Mode64-bit",
+        "Maximum Supported Memory":"Maximum Supported Memory192 GB",
+        "Rating":"(298)",
+        "Price":"Add"
+    },
+    {
+        "Name":"Microsoft Windows 7 Home Premium SP1 32-bit (4)",
+        "Mode":"Mode32-bit",
+        "Maximum Supported Memory":"Maximum Supported Memory4 GB",
+        "Rating":"(4)",
+        "Price":"Add"
+    },
+    {
+        "Name":"Microsoft Windows 7 Ultimate SP1 OEM 64-bit (221)",
+        "Mode":"Mode64-bit",
+        "Maximum Supported Memory":"Maximum Supported Memory192 GB",
+        "Rating":"(221)",
+        "Price":"Add"
+    },
+    {
+        "Name":"Microsoft Windows 7 Home Premium SP1 OEM 64-bit (768)",
+        "Mode":"Mode64-bit",
+        "Maximum Supported Memory":"Maximum Supported Memory16 GB",
+        "Rating":"(768)",
+        "Price":"Add"
+    },
+    {
+        "Name":"Microsoft Windows 7 Ultimate 64-bit (3)",
+        "Mode":"Mode64-bit",
+        "Maximum Supported Memory":"Maximum Supported Memory192 GB",
+        "Rating":"(3)",
+        "Price":"Add"
+    },
+    {
+        "Name":"Microsoft Windows 7 Pro SP1 DE 64-bit (1)",
+        "Mode":"Mode64-bit",
+        "Maximum Supported Memory":"Maximum Supported Memory192 GB",
+        "Rating":"(1)",
+        "Price":"Add"
+    },
+    {
+        "Name":"Microsoft Windows 7 Professional SP1 OEM 32-bit (0)",
+        "Mode":"Mode32-bit",
+        "Maximum Supported Memory":"Maximum Supported Memory4 GB",
+        "Rating":"(0)",
+        "Price":"€184.84Add"
+    },
+    {
+        "Name":"Microsoft Windows 8.1 Pro OEM 64-bit (180)",
+        "Mode":"Mode64-bit",
+        "Maximum Supported Memory":"Maximum Supported Memory512 GB",
+        "Rating":"(180)",
+        "Price":"Add"
+    },
+    {
+        "Name":"Microsoft Windows 7 Ultimate SP1 OEM 3-Pack 64-bit (3)",
+        "Mode":"Mode64-bit",
+        "Maximum Supported Memory":"Maximum Supported Memory192 GB",
+        "Rating":"(3)",
+        "Price":"Add"
+    },
+    {
+        "Name":"Microsoft Windows 7 Ultimate SP1 OEM 32-bit (4)",
+        "Mode":"Mode32-bit",
+        "Maximum Supported Memory":"Maximum Supported Memory4 GB",
+        "Rating":"(4)",
+        "Price":"Add"
+    },
+    {
+        "Name":"Microsoft Windows 7 Home Premium SP1 OEM 3-Pack 32-bit (0)",
+        "Mode":"Mode32-bit",
+        "Maximum Supported Memory":"Maximum Supported Memory4 GB",
+        "Rating":"(0)",
+        "Price":"Add"
+    },
+    {
+        "Name":"Microsoft Windows 7 Home Premium SP1 64-bit (0)",
+        "Mode":"Mode64-bit",
+        "Maximum Supported Memory":"Maximum Supported Memory16 GB",
+        "Rating":"(0)",
+        "Price":"Add"
+    },
+    {
+        "Name":"Microsoft Windows 7 Ultimate Full 32\/64-bit (41)",
+        "Mode":"Mode32\/64-bit",
+        "Maximum Supported Memory":"Maximum Supported Memory192 GB",
+        "Rating":"(41)",
+        "Price":"Add"
+    },
+    {
+        "Name":"Microsoft Windows 7 Ultimate SP1 3-Pack 32-bit (0)",
+        "Mode":"Mode32-bit",
+        "Maximum Supported Memory":"Maximum Supported Memory4 GB",
+        "Rating":"(0)",
+        "Price":"Add"
+    },
+    {
+        "Name":"Microsoft Windows 7 Pro SP1 DE OEM 64-bit (0)",
+        "Mode":"Mode64-bit",
+        "Maximum Supported Memory":"Maximum Supported Memory192 GB",
+        "Rating":"(0)",
+        "Price":"Add"
+    },
+    {
+        "Name":"Microsoft Windows 7 Professional SP1 OEM 3-Pack 64-bit (3)",
+        "Mode":"Mode64-bit",
+        "Maximum Supported Memory":"Maximum Supported Memory192 GB",
+        "Rating":"(3)",
+        "Price":"Add"
+    },
+    {
+        "Name":"Microsoft Windows 8 OEM 32-bit (1)",
+        "Mode":"Mode32-bit",
+        "Maximum Supported Memory":"Maximum Supported Memory4 GB",
+        "Rating":"(1)",
+        "Price":"Add"
+    },
+    {
+        "Name":"Microsoft Windows 8 OEM 64-bit (20)",
+        "Mode":"Mode64-bit",
+        "Maximum Supported Memory":"Maximum Supported Memory128 GB",
+        "Rating":"(20)",
+        "Price":"Add"
+    },
+    {
+        "Name":"Microsoft Windows 8.1 Pro OEM 64-bit (158)",
+        "Mode":"Mode64-bit",
+        "Maximum Supported Memory":"Maximum Supported Memory512 GB",
+        "Rating":"(158)",
+        "Price":"Add"
+    },
+    {
+        "Name":"Microsoft Windows 7 Professional SP1 OEM 3-Pack 32-bit (0)",
+        "Mode":"Mode32-bit",
+        "Maximum Supported Memory":"Maximum Supported Memory4 GB",
+        "Rating":"(0)",
+        "Price":"Add"
+    },
+    {
+        "Name":"Microsoft Windows 7 Professional SP1 30-Pack 32-bit (0)",
+        "Mode":"Mode32-bit",
+        "Maximum Supported Memory":"Maximum Supported Memory4 GB",
+        "Rating":"(0)",
+        "Price":"Add"
+    },
+    {
+        "Name":"Microsoft Windows 8.1 OEM 64-bit (560)",
+        "Mode":"Mode64-bit",
+        "Maximum Supported Memory":"Maximum Supported Memory128 GB",
+        "Rating":"(560)",
+        "Price":"Add"
+    },
+    {
+        "Name":"Microsoft Windows 7 Home Premium SP1 OEM 3-Pack 64-bit (6)",
+        "Mode":"Mode64-bit",
+        "Maximum Supported Memory":"Maximum Supported Memory16 GB",
+        "Rating":"(6)",
+        "Price":"Add"
+    },
+    {
+        "Name":"Microsoft Windows 8.1 Pro 32\/64-bit (94)",
+        "Mode":"Mode32\/64-bit",
+        "Maximum Supported Memory":"Maximum Supported Memory512 GB",
+        "Rating":"(94)",
+        "Price":"Add"
+    },
+    {
+        "Name":"Microsoft Windows 8 OEM 32-bit (0)",
+        "Mode":"Mode32-bit",
+        "Maximum Supported Memory":"Maximum Supported Memory4 GB",
+        "Rating":"(0)",
+        "Price":"Add"
+    },
+    {
+        "Name":"Microsoft Windows 8 Pro OEM 32-bit (0)",
+        "Mode":"Mode32-bit",
+        "Maximum Supported Memory":"Maximum Supported Memory4 GB",
+        "Rating":"(0)",
+        "Price":"Add"
+    },
+    {
+        "Name":"Microsoft Windows 8 Pro OEM 64-bit (25)",
+        "Mode":"Mode64-bit",
+        "Maximum Supported Memory":"Maximum Supported Memory512 GB",
+        "Rating":"(25)",
+        "Price":"Add"
+    },
+    {
+        "Name":"Microsoft Windows 8.1 Pro OEM 32-bit (0)",
+        "Mode":"Mode32-bit",
+        "Maximum Supported Memory":"Maximum Supported Memory4 GB",
+        "Rating":"(0)",
+        "Price":"Add"
+    },
+    {
+        "Name":"Microsoft Windows 8.1 Pro DE OEM 64-bit (0)",
+        "Mode":"Mode64-bit",
+        "Maximum Supported Memory":"Maximum Supported Memory512 GB",
+        "Rating":"(0)",
+        "Price":"€124.75Add"
+    },
+    {
+        "Name":"Microsoft Windows 8.1 OEM 32-bit (0)",
+        "Mode":"Mode32-bit",
+        "Maximum Supported Memory":"Maximum Supported Memory4 GB",
+        "Rating":"(0)",
+        "Price":"Add"
+    },
+    {
+        "Name":"Microsoft Windows 8.1 OEM 64-bit (159)",
+        "Mode":"Mode64-bit",
+        "Maximum Supported Memory":"Maximum Supported Memory128 GB",
+        "Rating":"(159)",
+        "Price":"Add"
+    },
+    {
+        "Name":"Microsoft Windows 8 OEM 64-bit (182)",
+        "Mode":"Mode64-bit",
+        "Maximum Supported Memory":"Maximum Supported Memory128 GB",
+        "Rating":"(182)",
+        "Price":"Add"
+    },
+    {
+        "Name":"Microsoft Windows 8 Pro OEM 64-bit (105)",
+        "Mode":"Mode64-bit",
+        "Maximum Supported Memory":"Maximum Supported Memory512 GB",
+        "Rating":"(105)",
+        "Price":"Add"
+    },
+    {
+        "Name":"Microsoft Windows 8.1 Pro OEM 32-bit (0)",
+        "Mode":"Mode32-bit",
+        "Maximum Supported Memory":"Maximum Supported Memory4 GB",
+        "Rating":"(0)",
+        "Price":"Add"
+    },
+    {
+        "Name":"Microsoft Windows 8 Pro DE OEM 64-bit (0)",
+        "Mode":"Mode64-bit",
+        "Maximum Supported Memory":"Maximum Supported Memory512 GB",
+        "Rating":"(0)",
+        "Price":"Add"
+    },
+    {
+        "Name":"Microsoft Windows 8.1 OEM 32-bit (0)",
+        "Mode":"Mode32-bit",
+        "Maximum Supported Memory":"Maximum Supported Memory4 GB",
+        "Rating":"(0)",
+        "Price":"Add"
+    },
+    {
+        "Name":"Microsoft Windows 8.1 DE OEM 64-bit (0)",
+        "Mode":"Mode64-bit",
+        "Maximum Supported Memory":"Maximum Supported Memory128 GB",
+        "Rating":"(0)",
+        "Price":"€133.65Add"
+    }
+]
