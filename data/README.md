@@ -4,6 +4,8 @@
 .
 ├── README.md
 ├── processed
+│   ├── components_01.csv
+│   └── components_01.json
 └── raw
     ├── pccomponentes
     │   ├── productos_pccomponentes.csv
