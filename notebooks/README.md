@@ -30,7 +30,7 @@ Este repositorio contiene varios cuadernos de Jupyter que se utilizan para difer
 >
 
 ```bash
-docker build -f notebooks/Dockerfile.jupyter -t jupyter-python .
+docker build -f notebooks/Dockerfile.jupyter -t jupyter-python notebooks
 ```
 
 ```bash
