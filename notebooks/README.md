@@ -4,6 +4,12 @@ Este repositorio contiene varios cuadernos de Jupyter que se utilizan para difer
 
 ## Notebooks
 
+| Nombre del Cuaderno | Descripción |
+|---------------------|-------------|
+| `create_and_clean_dataset.ipynb` | ... |
+| `dataset_processing.ipynb` | ... |
+| `model_training.ipynb` | ... |
+
 ###  Web scraping `/scraping`
 
 | Nombre del Cuaderno | Descripción |
@@ -11,15 +17,6 @@ Este repositorio contiene varios cuadernos de Jupyter que se utilizan para difer
 | `scraping_pccomponentes.ipynb` | Este cuaderno se utiliza para realizar scraping de datos de componentes de PC. |
 | `scraping_processors.ipynb` | Este cuaderno se utiliza para realizar scraping de datos de procesadores. |
 | `scraping_pcpartpicker.ipynb` | Este cuaderno se utiliza para realizar scraping de datos de PCPartPicker. |
-
-
-### Datasets
-
-| Nombre del Cuaderno | Descripción |
-|---------------------|-------------|
-| `dataset_01.ipynb` | Este cuaderno se utiliza para crear el conjunto de datos que se empleará para entrenar nuestro modelo. |
-| `dataset_02.ipynb` | Este cuaderno se utiliza para descargar las imágenes y crear el conjunto de datos. |
-| `dataset_03.ipynb` | Este cuaderno se utiliza para crear el dataset definitivo. |
 
 ## 🐳 Ejecutar con Docker
 
