@@ -6,9 +6,9 @@ Este repositorio contiene varios cuadernos de Jupyter que se utilizan para difer
 
 | Nombre del Cuaderno | Descripción |
 |---------------------|-------------|
-| `create_and_clean_dataset.ipynb` | ... |
-| `dataset_processing.ipynb` | ... |
-| `model_training.ipynb` | ... |
+| `create_and_clean_dataset.ipynb` | Crea el dataset original con las URLs de las imágenes y su label. |
+| `dataset_processing.ipynb` | Transforma el dataset guardando imágenes localmente y convirtiendo etiquetas a valores numéricos. |
+| `model_training.ipynb` | Entrenamiento de la red neuronal. |
 
 ###  Web scraping `/scraping`
 
@@ -19,6 +19,9 @@ Este repositorio contiene varios cuadernos de Jupyter que se utilizan para difer
 | `scraping_pcpartpicker.ipynb` | Este cuaderno se utiliza para realizar scraping de datos de PCPartPicker. |
 
 ## 🐳 Ejecutar con Docker
+
+Utiliza el entorno proporcionado por la imagen `Dockerfile.jupyter`.
+
 
 ### 1. Construir y levantar el contenedor
 
