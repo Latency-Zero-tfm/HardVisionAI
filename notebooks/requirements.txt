@@ -6,3 +6,8 @@ pandas
 matplotlib
 seaborn
 Pillow
+tensorflow
+opencv-python
+tqdm
+scikit-learn
+requests
