@@ -8,7 +8,7 @@ from tensorflow.keras.models import load_model
 from PIL import Image
 
 # Configuracion
-st.set_page_config(page_title="HardVision AI", page_icon="img/logo.png", layout="centered")
+st.set_page_config(page_title="HardVision AI", page_icon="img/logo2.png", layout="centered")
 
 label_map = {
     0: 'motherboard',
