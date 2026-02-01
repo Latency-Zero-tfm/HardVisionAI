@@ -74,9 +74,11 @@ HardVisionAI/
 * [Alvaro López Guerrero](https://github.com/Alvalogue72)
 * [Andrei Munteanu Popa](https://github.com/andu8705)
 
-Máster de FP en Inteligencia Artifical y Big Data - CPIFP Alan Turing - `Curso 2025/2026`
+Máster de FP en Inteligencia Artifical y Big Data - CPIFP Alan Turing 
 
 <img src="./img/alan_turing.png" width="150"/>
+
+`Curso 2025/2026`
 
 ### 📄 Licencia
 
