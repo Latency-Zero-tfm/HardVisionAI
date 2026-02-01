@@ -1,7 +1,19 @@
 services:
-  app:
+  streamlit-gpu:
     build: .
+    container_name: streamlit
     ports:
       - "8501:8501"
     volumes:
       - .:/app
+    command: streamlit run streamlit_app.py --server.address=0.0.0.0
+    deploy:
+      resources:
+        reservations:
+          devices:
+            - driver: nvidia
+              count: 1
+              capabilities: [gpu]
+    environment:
+      - NVIDIA_VISIBLE_DEVICES=all
+      - NVIDIA_DRIVER_CAPABILITIES=compute,utility

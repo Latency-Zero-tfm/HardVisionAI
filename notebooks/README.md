@@ -14,6 +14,7 @@ Estos notebooks contienen todos los pasos del proyecto, desde la recopilación y
 | `dataset_processing.ipynb` | Transforma el dataset guardando imágenes localmente y convirtiendo etiquetas a valores numéricos. |
 | `model_training.ipynb` | Entrenamiento de la red neuronal para la clasificación de componentes de PC. |
 | `model_ocr.ipynb` | Aplica OCR a las imágenes del dataset para extraer texto, marcas, modelos y especificaciones.|
+| `app.ipynb` | Integra `model_ocr.ipynb` y `model_training`, usando el código para la interfaz de Streamlit. |
 
 ## 🌐 Web scraping `/scraping`
 
