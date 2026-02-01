@@ -83,7 +83,7 @@ def process_images(img_array):
 st.title("HardVision AI")
 st.markdown("Sube una imagen de un componente de PC para identificarlo y extraer sus especificaciones.")
 
-uploaded_file = st.file_uploader("Sube tu imagen", type=["png", "jpg", "jpeg", "webp"])
+uploaded_file = st.file_uploader("Sube tu imagen", type=["png", "jpg", "jpeg"])
 
 if uploaded_file is not None and model is not None:
     image = Image.open(uploaded_file)
