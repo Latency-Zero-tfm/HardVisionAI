@@ -1,1 +1,7 @@
 streamlit
+opencv-python
+numpy
+matplotlib
+easyocr
+tensorflow[and-cuda]
+pillow
