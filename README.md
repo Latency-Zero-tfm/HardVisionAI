@@ -23,6 +23,8 @@ Estos portales proporcionan información detallada sobre marcas, modelos y espec
 
 ## 🐍 Stack Tecnológico
 
+![Python Version](https://img.shields.io/badge/python-3.12-blue?logo=python&logoColor=white)
+
 El proyecto HardVisionAI utiliza **Python 3.12** para todo el código:
 
 - Web scraping
@@ -45,6 +47,25 @@ docker-compose up --build
 http://localhost:8501
 ```
 
+## 📂 Estructura del proyecto
+
+```text
+HardVisionAI/
+│
+├── data/               # CSV, JSON e imágenes
+├── img/                # Logos y capturas
+├── models/             # Modelo entrenado
+├── notebooks/          # Cuadernos Jupyter
+├── requirements.txt    # Dependencias Python 3.12
+├── app.py              # Integración del modelo
+├── streamlit_app.py    # Demo Streamlit
+├── Dockerfile          # Contenedor Streamlit
+├── docker-compose.yml  # Levantar demo con Docker
+├── .gitignore          # Archivos ignorados por Git
+├── LICENSE             # Licencia personalizada
+└── README.md           # Este archivo
+```
+
 ## 👤 Créditos
 
 ### 👨‍💻 Autores del proyecto
@@ -59,6 +80,8 @@ Máster de FP en Inteligencia Artifical y Big Data - CPIFP Alan Turing - `Curso 
 
 ### 📄 Licencia
 
+![License](https://img.shields.io/badge/license-HardVisionAI%20Custom-blue)
+
 Este proyecto está protegido por derechos de autor. No se permite su uso, copia, modificación, distribución ni creación de obras derivadas sin autorización expresa de los autores.
 
 © 2026 Alejandro-BR, Alvalogue72, andu8705. Todos los derechos reservados.  
@@ -67,3 +90,7 @@ Para consultas o permisos especiales, contactar a: [latencyzero.tfm@gmail.com](m
 ---
 
 ⭐ Si te ha gustado este repo, dale una estrellita 😉
+
+![GitHub Repo Stars](https://img.shields.io/github/stars/Latency-Zero-tfm/HardVisionAI?style=social)
+![Last Commit](https://img.shields.io/github/last-commit/Latency-Zero-tfm/HardVisionAI)
+![GitHub Issues](https://img.shields.io/github/issues/Latency-Zero-tfm/HardVisionAI)

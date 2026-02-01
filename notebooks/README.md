@@ -2,7 +2,7 @@
 
 Este repositorio contiene todos los cuadernos de Jupyter utilizados a lo largo del proyecto **HardVisionAI**, desde la obtención de datos hasta el procesamiento OCR y entrenamiento de modelos de visión artificial.
 
-
+![Python Version](https://img.shields.io/badge/python-3.12-blue?logo=python&logoColor=white)
 
 ## 📒 Notebooks principales
 
