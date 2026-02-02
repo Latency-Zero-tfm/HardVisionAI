@@ -20,7 +20,7 @@ Para más detalles sobre la arquitectura del modelo y métricas de entrenamiento
 ## 🎬 Demo
 
 [![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://hardvisionai.streamlit.app/)
-[![YouTube Demo](https://img.shields.io/badge/Watch-Demo-red?logo=youtube)](https://www.youtube.com/watch?v=TU_ID_DEL_VIDEO)
+[![YouTube Demo](https://img.shields.io/badge/Watch-Demo-red?logo=youtube)](https://youtu.be/C1xbr_65SfM)
 
 <!-- TODO: Sustituye TU_ID_DEL_VIDEO por el ID real del vídeo -->
 
