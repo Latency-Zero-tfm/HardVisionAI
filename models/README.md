@@ -44,7 +44,7 @@ label_map = {
 
 ## Resultados de rendimiento
 
-<img scr="../img/perfomance_test.png">
+![performance_test](../img/performance_test.png)
 
 ### Evolución del Entrenamiento
 
